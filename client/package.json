@@ -24,6 +24,6 @@
 		"eslint-plugin-react": "7.32.2",
 		"prettier": "2.8.5",
 		"styled-components": "^5.3.10",
-		"vite": "4.2.1"
+		"vite": "^4.5.0"
 	}
 }
